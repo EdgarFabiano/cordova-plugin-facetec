@@ -1,8 +1,8 @@
-#import "MyCordovaPlugin.h"
+#import "FacetecCordovaPlugin.h"
 
 #import <Cordova/CDVAvailability.h>
 
-@implementation MyCordovaPlugin
+@implementation FacetecCordovaPlugin
 
 - (void)pluginInitialize {
 }
